@@ -11,3 +11,6 @@
 - 🔧 Currently working with cloud platforms such as AWS and deploying machine learning models for real-time predictions.
 - 🌱 Always learning and experimenting with the latest data science tools, with a keen interest in AI, machine learning, and data-driven product management.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jillkaria2709&show_icons=true&locale=en" alt="jillkaria2709" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jillkaria2709&" alt="jillkaria2709" /></p>
